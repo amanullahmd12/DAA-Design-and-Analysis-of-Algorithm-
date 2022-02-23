@@ -1,2 +1,1 @@
-# DAA-Design-and-analysis-of-Algorithm-
-FOR CLASS WORK
+# DAA-Design-and-analysis-of-Algorithm
